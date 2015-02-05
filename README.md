@@ -10,7 +10,7 @@ The formula to define the color can basically be sumed up with this:
 Either
 - Copy past the source in your project (do not forget the font asset.)
 - import the module
-- include [the aar](assets/letteravatar-release.aar) in your project
+- include [the aar](https://github.com/legarspol/LetterAvatar/raw/master/assets/letteravatar-release.aar) in your project
 
 then call 
 
